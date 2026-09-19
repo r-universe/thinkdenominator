@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ggrank"]
+	path = ggrank
+	url = https://github.com/thinkdenominator/ggrank
 [submodule "gtregression"]
 	path = gtregression
 	url = https://github.com/thinkdenominator/gtregression
