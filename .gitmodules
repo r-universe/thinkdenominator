@@ -8,3 +8,6 @@
 [submodule "gtregression"]
 	path = gtregression
 	url = https://github.com/thinkdenominator/gtregression
+[submodule "gtstats"]
+	path = gtstats
+	url = https://github.com/thinkdenominator/gtstats
